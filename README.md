@@ -26,7 +26,7 @@ A community driven list of useful Health Resources. Other amazingly awesome list
 
 * [TellSpecopedia](http://www.tellspecopedia.com/) — dynamic, up-to-date consumer resource for objective,  evidence-based information on thousands of global food ingredients and their impact on health.
 * [Harward Nutrition Source](http://www.hsph.harvard.edu/nutritionsource/) - The Nutrition Source provides evidence-based diet & nutrition information for clinicians, health professionals, the media and the public.
-* [Harward Nutrition Source](http://www.choosemyplate.gov/) - . MyPlate is a new generation icon with the intent to prompt consumers to think about building a healthy plate at meal times and to seek more information to help them do that by going to website.
+* [choose MyPlate](http://www.choosemyplate.gov/) - . MyPlate is a new generation icon with the intent to prompt consumers to think about building a healthy plate at meal times and to seek more information to help them do that by going to website.
 
 
 ## Health Organizations

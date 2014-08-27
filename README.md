@@ -1,4 +1,4 @@
-awesome-health
+Awesome Health
 ==============
 
 A curated list of health resources

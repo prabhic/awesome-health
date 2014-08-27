@@ -22,7 +22,7 @@ A community driven list of useful Health Resources. Other amazingly awesome list
 
 ## Food
 
-*Food and Effect *
+*Food and Effect*
 
 * [TellSpecopedia](http://www.tellspecopedia.com/) — dynamic, up-to-date consumer resource for objective,  evidence-based information on thousands of global food ingredients and their impact on health.
 

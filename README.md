@@ -7,9 +7,10 @@ A community driven list of useful Health Resources. Other amazingly awesome list
 
 - [Awesome Health](#awesome-health)
     - [Anatomy](#anatomy)
-    - [General Health Issues](#general-health-issues)
+    - [Food](#food)
     - [Health Organizations](#health-organizations)
-
+    - [General Health Issues](#general-health-issues)
+ 
 - [Contributing](#contributing)
 
 ## Anatomy
@@ -18,6 +19,13 @@ A community driven list of useful Health Resources. Other amazingly awesome list
 
 * [Zygotebody](http://zygotebody.com/) — Zygote Body, formerly Google Body, is a web application that renders manipulable 3D anatomical models of the human body
 * [Wiki](http://en.wikipedia.org/wiki/Human_body) — Wikipedia Entry
+
+## Food
+
+*Food and Effect *
+
+* [TellSpecopedia](http://www.tellspecopedia.com/) — dynamic, up-to-date consumer resource for objective,  evidence-based information on thousands of global food ingredients and their impact on health.
+
 
 ## Health Organizations
 

@@ -15,7 +15,7 @@ A community driven list of useful Health Resources. Other amazingly awesome list
 
 ## Anatomy
 
-*Understanding of Human funtion*
+*Understanding of Human function*
 
 * [Zygotebody](http://zygotebody.com/) — Zygote Body, formerly Google Body, is a web application that renders manipulable 3D anatomical models of the human body
 * [Wiki](http://en.wikipedia.org/wiki/Human_body) — Wikipedia Entry

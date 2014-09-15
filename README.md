@@ -8,7 +8,7 @@ A community driven list of useful Health Resources. Other amazingly awesome list
 - [Awesome Health](#awesome-health)
     - [Anatomy](#anatomy)
     - [Food](#food)
-    - [Exercise](#exercise)    - 
+    - [Exercise](#exercise) 
     - [Health Organizations](#health-organizations)
     - [Not Feeling Well](#not-feeling-well)
  
@@ -40,7 +40,7 @@ A community driven list of useful Health Resources. Other amazingly awesome list
 * [WHO](http://www.who.int/en/) — World Health Organization
 * [NIC](http://www.nlm.nih.gov/) — US National Library of Medicine
 
-## not-feeling-well
+## Not Feeling Well
 
 *Not Feeling Well*
 

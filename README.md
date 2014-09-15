@@ -8,8 +8,9 @@ A community driven list of useful Health Resources. Other amazingly awesome list
 - [Awesome Health](#awesome-health)
     - [Anatomy](#anatomy)
     - [Food](#food)
+    - [Exercise](#exercise)    - 
     - [Health Organizations](#health-organizations)
-    - [General Health Issues](#general-health-issues)
+    - [Not Feeling Well](#not-feeling-well)
  
 - [Contributing](#contributing)
 
@@ -29,16 +30,19 @@ A community driven list of useful Health Resources. Other amazingly awesome list
 * [choose MyPlate](http://www.choosemyplate.gov/) - . MyPlate is a new generation icon with the intent to prompt consumers to think about building a healthy plate at meal times and to seek more information to help them do that by going to website.
 * [10 Tips](http://www.choosemyplate.gov/healthy-eating-tips/ten-tips.html) - 10 Tips for Nutrition and Weight Control.
 
+## Exercise
+
+*Exercise*
+
 
 ## Health Organizations
 
 * [WHO](http://www.who.int/en/) — World Health Organization
 * [NIC](http://www.nlm.nih.gov/) — US National Library of Medicine
 
-## General Health Issues
+## not-feeling-well
 
-*General Health Issues*
-
+*Not Feeling Well*
 
 
 # Contributing

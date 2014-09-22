@@ -46,7 +46,6 @@ A community driven list of useful Health Resources. Other amazingly awesome list
 *Not Feeling Well*
 
 ## Home Remedies
-*Home Remedies*
 
 * [HOMEVEDA](http://www.homeveda.com/) - Indian Home Remedies for Good Health
 

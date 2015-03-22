@@ -22,6 +22,7 @@ A community driven list of useful Health Resources. Other amazingly awesome list
 * [Zygotebody](http://zygotebody.com/) — Zygote Body, formerly Google Body, is a web application that renders manipulable 3D anatomical models of the human body
 * [Biodigital](https://human.biodigital.com/index.html) - Similar to Zygotebody but all deceases are associated.
 * [Wiki](http://en.wikipedia.org/wiki/Human_body) — Wikipedia Entry
+* [BMI] http://blog.bodylabs.com/2015/01/29/visualizing-bmis-blind-spots/
 
 ## Food
 

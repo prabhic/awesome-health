@@ -42,10 +42,17 @@ A community driven list of useful Health Resources. Other amazingly awesome list
 
 * [WHO](http://www.who.int/en/) — World Health Organization
 * [NIC](http://www.nlm.nih.gov/) — US National Library of Medicine
+* [ACS](http://www.cancer.org/healthy/index) - Stay Healthy from American Cancer Society
+* [DIABETES] (http://www.diabetes.org/) - American diabetes Association
+* [Kidney] (https://www.kidney.org/atoz/content/Dash_Diet) - Dash Diet from National Kidney Foundation
 
 ## Not Feeling Well
 
 *Not Feeling Well*
+
+## Specific diets
+
+* [Liver] (http://www.nlm.nih.gov/medlineplus/ency/article/002441.htm) - Diet for liver health
 
 ## Home Remedies
 

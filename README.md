@@ -61,3 +61,8 @@ A community driven list of useful Health Resources. Other amazingly awesome list
 # Contributing
 
 Your contributions are always welcome! Please submit a pull request or create an issue to add a new resource. 
+
+
+References:
+
+Healt Palpitations in a Healthy Heart - http://www.heartmdinstitute.com/126-hmd-root/hmd-articles/494-worried-about-heart-palpitations#!kmt-start=10

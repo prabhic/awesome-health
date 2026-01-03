@@ -49,6 +49,8 @@ A community driven list of useful Health Resources. Other amazingly awesome list
 
 *Not Feeling Well*
 
+* [Vedika API](https://vedika.io) - AI-powered Vedic astrology API for wellness and lifestyle apps. Provides personalized insights through birth chart analysis, horoscope, and compatibility matching with 22 language support.
+
 ## Specific diets
 
 * [Healthy Liver] (http://www.nlm.nih.gov/medlineplus/ency/article/002441.htm) - Diet for liver health

@@ -58,6 +58,10 @@ A community driven list of useful Health Resources. Other amazingly awesome list
 
 * [HOMEVEDA](http://www.homeveda.com/) - Indian Home Remedies for Good Health
 
+## Tools
+
+* [Bloodboy](https://github.com/mizoloff/bloodboy) — Privacy-first browser-based blood test tracker.
+
 # Contributing
 
 Your contributions are always welcome! Please submit a pull request or create an issue to add a new resource. 

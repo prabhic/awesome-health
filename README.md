@@ -12,6 +12,7 @@ A community driven list of useful Health Resources. Other amazingly awesome list
     - [Health Organizations](#health-organizations)
     - [Not Feeling Well](#not-feeling-well)
     - [Home Remedies](#home-remedies)
+    - [Self-Tracking](#self-tracking)
  
 - [Contributing](#contributing)
 
@@ -58,9 +59,11 @@ A community driven list of useful Health Resources. Other amazingly awesome list
 
 * [HOMEVEDA](http://www.homeveda.com/) - Indian Home Remedies for Good Health
 
-## Tools
+## Self-Tracking
 
-* [Bloodboy](https://github.com/mizoloff/bloodboy) — Privacy-first browser-based blood test tracker.
+*Tracking and monitoring biomarkers*
+
+* [Bloodboy](https://github.com/mizoloff/bloodboy) - Privacy-first browser-based blood test tracker. Helps track biomarkers with local storage. No account required.
 
 # Contributing
 

@@ -69,4 +69,6 @@ Healt Palpitations in a Healthy Heart - http://www.heartmdinstitute.com/126-hmd-
 ## Calculators
 
 - [Calorique](https://calorique.io/) - Free nutrition calculators using Mifflin-St Jeor BMR and Compendium of Physical Activities. TDEE, macros, calorie deficit, BMI, activity calorie burn. ACSM-aligned methodology.
+- [Hearth Sleep Cycle Calculator](https://hearthcalc.com/sleep-cycle-calculator) - Suggests bedtimes and wake times built on 90-minute sleep cycles plus a 15-minute latency allowance, following Sleep Foundation / NSF guidance.
+- [Hearth Caffeine Cutoff Calculator](https://hearthcalc.com/caffeine-cutoff-calculator) - Estimates the latest time to drink coffee before bed, using the ~5-hour caffeine half-life model from NIH StatPearls.
 

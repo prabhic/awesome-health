@@ -69,4 +69,5 @@ Healt Palpitations in a Healthy Heart - http://www.heartmdinstitute.com/126-hmd-
 ## Calculators
 
 - [Calorique](https://calorique.io/) - Free nutrition calculators using Mifflin-St Jeor BMR and Compendium of Physical Activities. TDEE, macros, calorie deficit, BMI, activity calorie burn. ACSM-aligned methodology.
+- [FitSmart](https://fitsmart.space) - Free fitness calculators (BMI, BMR, TDEE, body fat, ideal weight, macros), structured training programs, workout plans and an AI coach. No sign-up.
 

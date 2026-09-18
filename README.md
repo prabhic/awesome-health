@@ -38,6 +38,8 @@ A community driven list of useful Health Resources. Other amazingly awesome list
 *Exercise*
 
 
+* [Tai Chi Reset](https://taichi.silentdirectivellc.com/?utm_source=awesome-health&utm_medium=resource-directory) — A personalised 4-week gentle tai chi plan you follow in the browser, plus six free full-length guides (chair tai chi, balance after 60, a 5-minute shoulder reset) that need no signup. Paid plan is $4.99 for 14 days, then $19.99 every 4 weeks.
+
 ## Health Organizations
 
 * [WHO](http://www.who.int/en/) — World Health Organization

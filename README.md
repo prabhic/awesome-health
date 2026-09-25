@@ -69,4 +69,5 @@ Healt Palpitations in a Healthy Heart - http://www.heartmdinstitute.com/126-hmd-
 ## Calculators
 
 - [Calorique](https://calorique.io/) - Free nutrition calculators using Mifflin-St Jeor BMR and Compendium of Physical Activities. TDEE, macros, calorie deficit, BMI, activity calorie burn. ACSM-aligned methodology.
+- [TR8CE](https://tr8ce.app/flow) - Peptide reconstitution calculator: vial mg and water volume to mg/mL and U-100 syringe units, plus a certificate-of-analysis reader. Educational, not medical advice.
 

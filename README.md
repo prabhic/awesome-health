@@ -32,6 +32,7 @@ A community driven list of useful Health Resources. Other amazingly awesome list
 * [Harward Nutrition Source](http://www.hsph.harvard.edu/nutritionsource/) - The Nutrition Source provides evidence-based diet & nutrition information for clinicians, health professionals, the media and the public.
 * [choose MyPlate](http://www.choosemyplate.gov/) - . MyPlate is a new generation icon with the intent to prompt consumers to think about building a healthy plate at meal times and to seek more information to help them do that by going to website.
 * [10 Tips](http://www.choosemyplate.gov/healthy-eating-tips/ten-tips.html) - 10 Tips for Nutrition and Weight Control.
+* [Snapkin](https://getsnapkin.app/) - A calorie tracker you use by photographing your plate: one photo per meal gives calories and protein. iPhone and Android, paid subscription.
 
 ## Exercise
 

@@ -68,5 +68,6 @@ References:
 Healt Palpitations in a Healthy Heart - http://www.heartmdinstitute.com/126-hmd-root/hmd-articles/494-worried-about-heart-palpitations#!kmt-start=10
 ## Calculators
 
+- [Healify](https://healify.ai/) - Free AI health coach. Connects Apple Health, bloodwork and meals, then answers in plain words. Paid plan is optional.
 - [Calorique](https://calorique.io/) - Free nutrition calculators using Mifflin-St Jeor BMR and Compendium of Physical Activities. TDEE, macros, calorie deficit, BMI, activity calorie burn. ACSM-aligned methodology.
 

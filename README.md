@@ -37,6 +37,7 @@ A community driven list of useful Health Resources. Other amazingly awesome list
 
 *Exercise*
 
+* [Subskills](https://subskills.xyz/) - Free sports technique videos sorted by sport, sub-skill and level.
 
 ## Health Organizations
 

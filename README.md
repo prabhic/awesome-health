@@ -37,6 +37,8 @@ A community driven list of useful Health Resources. Other amazingly awesome list
 
 *Exercise*
 
+* [Taichi Walking](https://taichi-walking.com/) — Beginner guide to tai chi walking: slow, low-impact steps with breathing for balance and mobility, plus a free printable 7-day plan.
+
 
 ## Health Organizations
 

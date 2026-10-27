@@ -69,4 +69,5 @@ Healt Palpitations in a Healthy Heart - http://www.heartmdinstitute.com/126-hmd-
 ## Calculators
 
 - [Calorique](https://calorique.io/) - Free nutrition calculators using Mifflin-St Jeor BMR and Compendium of Physical Activities. TDEE, macros, calorie deficit, BMI, activity calorie burn. ACSM-aligned methodology.
+- [Safe Headphone Volume Calculator](https://theaudiostuff.com/tools/safe-listening-calculator/) - Free calculator that estimates headphone listening level from sensitivity and source output, and the daily time allowed under the NIOSH 85 dBA / 3 dB exchange-rate guideline. General information, not medical advice.
 

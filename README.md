@@ -32,6 +32,7 @@ A community driven list of useful Health Resources. Other amazingly awesome list
 * [Harward Nutrition Source](http://www.hsph.harvard.edu/nutritionsource/) - The Nutrition Source provides evidence-based diet & nutrition information for clinicians, health professionals, the media and the public.
 * [choose MyPlate](http://www.choosemyplate.gov/) - . MyPlate is a new generation icon with the intent to prompt consumers to think about building a healthy plate at meal times and to seek more information to help them do that by going to website.
 * [10 Tips](http://www.choosemyplate.gov/healthy-eating-tips/ten-tips.html) - 10 Tips for Nutrition and Weight Control.
+- [Alkemos](https://alkemos.com/) — free bilingual (EN/AR) fitness and nutrition platform: 8 free tools (6 calculators + 2 AI planners), an 868-exercise library, an 8,830-food database. No signup.
 
 ## Exercise
 
@@ -69,4 +70,3 @@ Healt Palpitations in a Healthy Heart - http://www.heartmdinstitute.com/126-hmd-
 ## Calculators
 
 - [Calorique](https://calorique.io/) - Free nutrition calculators using Mifflin-St Jeor BMR and Compendium of Physical Activities. TDEE, macros, calorie deficit, BMI, activity calorie burn. ACSM-aligned methodology.
-

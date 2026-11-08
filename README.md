@@ -37,6 +37,7 @@ A community driven list of useful Health Resources. Other amazingly awesome list
 
 *Exercise*
 
+* [Calculation Hub Pace Calculator](https://calculation-hub.com/fitness/pace) - Free distance/time arithmetic for running or walking pace, speed and finish-time estimates; not medical advice or a personalized training prescription.
 
 ## Health Organizations
 

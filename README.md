@@ -37,7 +37,7 @@ A community driven list of useful Health Resources. Other amazingly awesome list
 
 *Exercise*
 
-* [Sports, Nutrition, and Health Guide](https://jiangweiqi001.github.io/sports-nutrition-health/search.html) — A free, searchable Chinese-language guide with 465 questions on running, strength training, nutrition, and recovery. Each answer shows its evidence grade and references.
+* [Sports, Nutrition, and Health Guide](https://jiangweiqi001.github.io/sports-nutrition-health/search.html) — Free, searchable Chinese-language guide with 465 questions on training, nutrition, and recovery. Answers prioritize authoritative guidelines, professional society position statements, and systematic reviews, with evidence grades and citations for each answer.
 
 ## Health Organizations
 

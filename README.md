@@ -69,4 +69,4 @@ Healt Palpitations in a Healthy Heart - http://www.heartmdinstitute.com/126-hmd-
 ## Calculators
 
 - [Calorique](https://calorique.io/) - Free nutrition calculators using Mifflin-St Jeor BMR and Compendium of Physical Activities. TDEE, macros, calorie deficit, BMI, activity calorie burn. ACSM-aligned methodology.
-
+- [Verateca Tools](https://verateca.com/tools) - Free supplement unit converters: vitamin D IU to mcg, folate DFE, vitamin A IU to mcg, vitamin E IU to mg, and elemental mineral content.
